@@ -1,4 +1,4 @@
-package com.example.loginwithcomposable.components
+package com.example.loginwithcomposable.ui.components
 
 
 import androidx.compose.foundation.Image
