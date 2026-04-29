@@ -20,8 +20,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.loginwithcomposable.components.CustomTextField
-import com.example.loginwithcomposable.components.HeaderImage
+import com.example.loginwithcomposable.ui.components.CustomTextField
+import com.example.loginwithcomposable.ui.components.HeaderImage
 import androidx.compose.runtime.setValue
 import com.example.loginwithcomposable.R
 import com.example.loginwithcomposable.utils.PrimaryButton
